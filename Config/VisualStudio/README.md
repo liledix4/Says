@@ -3,4 +3,5 @@
 # Visual Studio
 
 > [!NOTE]
+>
 > Not to be confused with [Visual Studio Code](../VisualStudioCode/README.md).
