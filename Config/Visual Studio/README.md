@@ -1,4 +1,6 @@
+**[liledix4 Says ▶️](../../README.md) [Config ▶️](../README.md)**
+
 # Visual Studio
 
 > [!NOTE]
-> Not to be confused with [Visual Studio Code](https://github.com/liledix4/Config/blob/main/Visual%20Studio%20Code).
+> Not to be confused with [Visual Studio Code](../Visual%20Studio%20Code/README.md).
