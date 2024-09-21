@@ -1,4 +1,4 @@
-**[liledix4 Says ▶️](../../README.md) [Config ▶️](../README.md) [Visual Studio Code ▶️](README.md)**
+**[liledix4 Says ➔](../../README.md) [Config ➔](../README.md) [Visual Studio Code ➔](README.md)**
 
 # `settings.json` – comments
 
