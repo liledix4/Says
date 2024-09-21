@@ -1,4 +1,4 @@
-**[liledix4 Says ➔](../../README.md) [Config ➔](../README.md) [Everything ➔](README.md)**
+**[liledix4 Says](../../README.md) ➔ [Config](../README.md) ➔ [Everything](README.md) ➔**
 
 # Bookmarks for Everything
 
