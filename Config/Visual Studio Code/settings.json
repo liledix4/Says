@@ -1,0 +1,213 @@
+{
+"[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+},
+
+"csv-edit.readOption_hasHeader": "true",
+
+"diffEditor.ignoreTrimWhitespace": false,
+
+"discord.detailsDebugging": "{workspace}",
+"discord.detailsEditing": "{workspace}",
+"discord.detailsIdling": "🌙 Idling",
+"discord.idleTimeout": 4444,
+"discord.largeImage": "✏️ Editing {LANG} file",
+"discord.largeImageIdling": "🌙 Idling",
+"discord.lowerDetailsDebugging": "🐞 {file_name}",
+"discord.lowerDetailsEditing": "✏️ {file_name}",
+"discord.lowerDetailsIdling": "🌙 Idling",
+"discord.lowerDetailsNoWorkspaceFound": "❓ No workspace",
+"discord.smallImage": "I use {app_name}!",
+
+"editor.accessibilitySupport": "off",
+"editor.detectIndentation": false,
+"editor.fontFamily": "'JetBrains Mono', Consolas, 'Courier New', monospace",
+"editor.fontLigatures": true,
+"editor.fontSize": 13,
+"editor.guides.bracketPairs": true,
+"editor.minimap.enabled": false,
+"editor.mouseWheelZoom": true,
+"editor.multiCursorModifier": "ctrlCmd",
+"editor.renderControlCharacters": false,
+"editor.renderWhitespace": "all",
+"editor.smoothScrolling": true,
+"editor.stickyScroll.enabled": true,
+"editor.unicodeHighlight.allowedLocales": {
+    "ru": true
+},
+"editor.wordWrap": "on",
+
+"explorer.autoReveal": false,
+"explorer.copyRelativePathSeparator": "/",
+
+"extensions.ignoreRecommendations": true,
+
+"files.associations": {
+    "*.edx": "markdown",
+    "*.2do": "markdown"
+},
+"files.autoSave": "afterDelay",
+"files.autoSaveDelay": 10000,
+"files.enableTrash": false,
+
+"fountain.general.previewTheme": "paper",
+"fountain.pdf.printNotes": true,
+"fountain.pdf.printSections": true,
+"fountain.pdf.printSynopsis": true,
+"fountain.pdf.textCONTD": "(CONT’D)",
+
+"git.autofetch": true,
+"git.confirmSync": false,
+"git.enableSmartCommit": true,
+
+"l13Diff.confirmCopy": false,
+"l13Diff.confirmDelete": false,
+"l13Diff.enablePreview": true,
+"l13Projects.confirmDeleteProject": false,
+
+"liveServer.settings.AdvanceCustomBrowserCmdLine": "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe --guest",
+"liveServer.settings.donotShowInfoMsg": true,
+"liveServer.settings.donotVerifyTags": true,
+"liveServer.settings.useWebExt": true,
+
+"Live-Workspace.username": "{{CHANGE}}",
+
+"markdown-preview-enhanced.scrollSync": false,
+
+"material-icon-theme.files.associations": {
+    "2do.md":       "todo",
+    "*.2do":        "todo",
+    "*.edx":        "supabase",
+    "*.fountain":   "fortran",
+    "*.issue":      "ionic",
+    "*.lnk":        "url"
+},
+"material-icon-theme.folders.associations": {
+    "2do":          "tasks",
+    "gears":        "config",
+    "html_include": "include",
+    ".obsidian":    "config"
+},
+
+"outline.collapseItems": "alwaysCollapse",
+
+"remotefs.remote": {
+    "{{CHANGE}}": {
+        "scheme": "ftp",
+        "host": "{{CHANGE}}",
+        "username": "{{CHANGE}}",
+        "password": "{{CHANGE}}",
+        "rootPath": "/"
+    }
+},
+
+"scoped-sort.defaultArgs": {
+    "prompt":       "--case-insensitive",
+    "no-prompt":    "--case-insensitive"
+},
+
+"search.searchEditor.defaultNumberOfContextLines": 0,
+
+"security.workspace.trust.untrustedFiles": "open",
+
+"statsBar.location": "Right",
+"statsBar.modules": [
+    "cpuLoad",
+    "networkSpeed"
+],
+"statsBar.networkSpeed.format": "$(arrow-up) ${up} $(arrow-down) ${down}",
+
+"symbols.hidesExplorerArrows": false,
+
+"telemetry.telemetryLevel": "off",
+
+"terminal.integrated.defaultProfile.windows": "Command Prompt",
+"terminal.integrated.smoothScrolling": true,
+
+"todohighlight.defaultStyle": {
+    "border": "2px dotted #ff9400",
+    "color": "black",
+    "backgroundColor": "#ffbf00"
+},
+"todohighlight.keywords": ["BUG","HACK","FIXME","TODO","XXX","[ ]","[x]","2DO","TEMP","CONTINUE HERE","2BREMOVED"],
+
+"TodoParser": {
+    "markers": ["BUG","HACK","FIXME","TODO","XXX","[ ]","[x]","2DO","TEMP","CONTINUE HERE","2BREMOVED"]
+},
+
+"todo-tree.filtering.includeHiddenFiles": true,
+"todo-tree.general.showActivityBarBadge": true,
+"todo-tree.general.statusBar": "current file",
+"todo-tree.general.tags": [
+    "BUG","HACK","FIXME","TODO","XXX","[ ]","[x]","2DO","TEMP","CONTINUE HERE","2BREMOVED","2do","TBA"
+],
+"todo-tree.highlights.customHighlight": {
+    "BUG":          {"icon": "bug"},
+    "HACK":         {"icon": "tools"},
+    "FIXME":        {"icon": "flame"},
+    "XXX":          {"icon": "x"},
+    "[ ]":          {"icon": "issue-draft"},
+    "[x]":          {"icon": "issue-closed"}
+},
+"todo-tree.highlights.enabled": true,
+"todo-tree.regex.regex": "(//|#|<!--|;|/\\*|\\[\\[|^|^[ \\t]*(-|\\d+.))\\s*($TAGS)",
+"todo-tree.regex.subTagRegex": "\\]\\]",
+"todo-tree.tree.buttons.export": true,
+"todo-tree.tree.buttons.groupBySubTag": true,
+"todo-tree.tree.buttons.scanMode": true,
+"todo-tree.tree.showCountsInTree": true,
+"todo-tree.tree.showScanModeButton": false,
+
+"update.mode": "start",
+"update.showReleaseNotes": false,
+
+"vscode-edge-devtools.mirrorEdits": true,
+
+"vscode-json-editor.theme": "dark",
+
+"VSCodeNotion.accessToken": "{{CHANGE}}",
+
+"vscord.status.buttons.button1.git.active.label": "View repository",
+"vscord.status.buttons.button1.git.idle.label": "View repository",
+"vscord.status.buttons.button1.git.inactive.label": "View repository",
+"vscord.status.details.text.debugging": "🐞 {workspace}",
+"vscord.status.details.text.editing": "✏️ {workspace}",
+"vscord.status.details.text.idle": "🌙 {workspace}",
+"vscord.status.details.text.notInFile": "❓ {workspace}",
+"vscord.status.details.text.noWorkSpaceText": "(no workspace)",
+"vscord.status.details.text.viewing": "👀 {workspace}",
+"vscord.status.idle.resetElapsedTime": true,
+"vscord.status.image.large.debugging.text": "Debugging {LANG} file",
+"vscord.status.image.large.editing.text": "Editing {LANG} file ({file_extension})",
+"vscord.status.image.large.notInFile.text": "Not in a file",
+"vscord.status.image.large.viewing.text": "Viewing {LANG} file ({file_extension})",
+"vscord.status.image.small.idle.text": "Sleepin...",
+"vscord.status.problems.enabled": false,
+"vscord.status.state.text.debugging": "Debugging: {file_name}",
+"vscord.status.state.text.editing": "Editing: {file_name}",
+"vscord.status.state.text.idle": "Idle",
+"vscord.status.state.text.notInFile": "Not in a file",
+"vscord.status.state.text.noWorkspaceFound": "",
+"vscord.status.state.text.viewing": "Viewing: {file_name}",
+
+"window.autoDetectColorScheme": true,
+"window.commandCenter": false,
+"window.density.editorTabHeight": "compact",
+"window.title": "${rootName}${separator}${profileName}",
+
+"workbench.activityBar.location": "bottom",
+"workbench.colorTheme": "Winter is Coming (Dark Blue)",
+"workbench.editor.empty.hint": "hidden",
+"workbench.editor.scrollToSwitchTabs": true,
+"workbench.editor.tabActionCloseVisibility": false,
+"workbench.editor.tabSizing": "shrink",
+"workbench.editor.titleScrollbarSizing": "large",
+"workbench.enableExperiments": false,
+"workbench.iconTheme": "material-icon-theme",
+"workbench.list.smoothScrolling": true,
+"workbench.preferredDarkColorTheme": "Winter is Coming (Dark Blue)",
+"workbench.preferredLightColorTheme": "Winter is Coming (Light)",
+"workbench.settings.enableNaturalLanguageSearch": false,
+"workbench.sideBar.location": "right",
+"workbench.startupEditor": "none"
+}
