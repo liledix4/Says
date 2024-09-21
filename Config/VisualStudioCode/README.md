@@ -3,6 +3,7 @@
 # Visual Studio Code
 
 > [!NOTE]
+>
 > Not to be confused with [Visual Studio](../VisualStudio/README.md).
 
 | Where you can go                                              |
