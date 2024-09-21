@@ -3,9 +3,9 @@
 # Visual Studio Code
 
 > [!NOTE]
-> Not to be confused with [Visual Studio](../Visual%20Studio/README.md).
+> Not to be confused with [Visual Studio](../VisualStudio/README.md).
 
 | Where you can go                                              |
 | :------------------------------------------------------------ |
 | [`settings.json`](settings.json)                              |
-| [`settings.json` – comments](settings.json%20-%20Comments.md) |
+| [`settings.json` – comments](settings.json_Comments.md)       |
