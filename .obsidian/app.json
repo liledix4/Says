@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": false,
+  "showUnsupportedFiles": true,
+  "showLineNumber": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

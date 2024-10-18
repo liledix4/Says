@@ -1,4 +1,21 @@
+# Obsidian
+**/.obsidian/*
+!/.obsidian/plugins/
+!/.obsidian/app.json
+!/.obsidian/appearance.json
+!/.obsidian/bookmarks.json
+!/.obsidian/community-plugins.json
+!/.obsidian/core-plugins.json
+!/.obsidian/core-plugins-migration.json
+!/.obsidian/hotkeys.json
+
+# 2do
 **/2do*/
 *.2do*
 2do*.*
+
+# Visual Studio Code
 **/.vscode/
+
+# Private folders
+/NotForUpload/
