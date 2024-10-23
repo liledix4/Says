@@ -2,5 +2,11 @@
   "swiss-army-knife",
   "obsidian-enhancing-export",
   "obsidian-smart-typography",
-  "obsidian-discordrpc"
+  "obsidian-discordrpc",
+  "obsidian-front-matter-title-plugin",
+  "folder-note-plugin",
+  "calendar",
+  "tray",
+  "file-explorer-note-count",
+  "better-word-count"
 ]

@@ -1,21 +1,41 @@
-# Obsidian
+# ================================================================
+# OBSIDIAN
+
 **/.obsidian/*
+
+# Plugins for Obsidian.
 !/.obsidian/plugins/
+
+# Data and configurations for Obsidian plugins.
+/.obsidian/plugins/*/data.json
+!/.obsidian/plugins/folder-note-plugin/data.json
+!/.obsidian/plugins/obsidian-discordrpc/data.json
+!/.obsidian/plugins/obsidian-front-matter-title-plugin/data.json
+
+# Configurations for Obsidian itself and its core plugins.
 !/.obsidian/app.json
 !/.obsidian/appearance.json
 !/.obsidian/bookmarks.json
 !/.obsidian/community-plugins.json
 !/.obsidian/core-plugins.json
-!/.obsidian/core-plugins-migration.json
 !/.obsidian/hotkeys.json
+!/.obsidian/page-preview.json
 
-# 2do
+# Deleted files (this directory shouldn't be used at all).
+**/.trash/
+
+# ================================================================
+# VISUAL STUDIO CODE
+
+**/.vscode/
+
+# ================================================================
+# GENERAL
+
+# To-do.
 **/2do*/
 *.2do*
 2do*.*
 
-# Visual Studio Code
-**/.vscode/
-
-# Private folders
+# Private folders.
 /NotForUpload/

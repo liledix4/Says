@@ -1,5 +1,5 @@
-**[liledix4 Says](../../README.md) ❯ [Config](../README.md) ❯ [Everything](README.md) ❯**
 
+**[liledix4 Says](../../README.md) ❯ [Config](Config/index.md) ❯ [Everything](README.md) ❯**
 # Bookmarks for Everything
 
 This page doesn't include **temporary bookmarks** and **search strings that contain sensitive info**.
